@@ -7,7 +7,7 @@ Screen.title("Language Translator")
 InputLanguageChoice = StringVar()
 TranslateLanguageChoice = StringVar()
 
-LanguageChoices = {'Hindi', 'English', 'French', 'German', 'Spanish'}
+LanguageChoices = {'Hindi', 'English', 'French', 'Spanish'}
 InputLanguageChoice.set('English')
 TranslateLanguageChoice.set('Hindi')
 
